@@ -16,12 +16,12 @@ public class JavaAssessment {
                 System.out.println(Double.toString(con.kelvinToCelcius(kelvins)));
                 break;
             case 2:
-                System.out.println("Enter kelvins to convert");
+                System.out.println("Enter pounds to convert");
                 double pounds = scanner.nextDouble();
                 System.out.println(Double.toString(con.poundsToKilogram(pounds)));
                 break;
             case 3:
-                System.out.println("Enter kelvins to convert");
+                System.out.println("Enter miles to convert");
                 double miles = scanner.nextDouble();
                 System.out.println(Double.toString(con.milesToKilometre(miles)));
                 break;

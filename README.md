@@ -1,0 +1,3 @@
+#have used an interface to enhance abstraction of the methods
+#For quick delivery of solution to problems , have implemented agile methodology in the form of automating build/deployment 
+#have created a maven project ,linked to github as the source control, connected github to jenkins that automates maven install command to create a jar file ,Have used Docker as the container build a docker image that runs independent of the platform, this is automated by jenkins, and eventually the docker image is deployed to docker hub, this is a recursive process for every commit to github
